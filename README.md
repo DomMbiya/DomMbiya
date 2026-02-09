@@ -95,12 +95,13 @@ My goal is simple: **build software that lasts, scales, and is easy to maintain*
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oraymaza&show_icons=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DomMbiya&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oraymaza&layout=compact&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomMbiya&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
 </p>
+
 
 ---
 
